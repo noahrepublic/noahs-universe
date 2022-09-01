@@ -27,7 +27,6 @@ body {
   display: inline;
 }
 
-
 #navbar a {
  
   font-family: 'Arial', sans-serif;
@@ -62,7 +61,7 @@ body {
   background-position: 0;
 }
 
-
+/* Secret title hover */
 #title {
   color: #E0E1DD;
   font-family: 'Arial', sans-serif;
@@ -90,7 +89,6 @@ body {
   background-repeat: no-repeat;
   transition: background-size 400ms;
 }
-
 #title:hover {
   background-size: 0 3px, 100% 3px;
 }
