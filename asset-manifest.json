@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/noahs-universe/static/css/main.47daf086.css",
-    "main.js": "/noahs-universe/static/js/main.17908abe.js",
+    "main.js": "/noahs-universe/static/js/main.f022faae.js",
     "static/js/787.3ba5e41c.chunk.js": "/noahs-universe/static/js/787.3ba5e41c.chunk.js",
     "static/media/avatar.png": "/noahs-universe/static/media/avatar.d78d969d39d53960e2fc.png",
     "static/media/discord.png": "/noahs-universe/static/media/discord.3849aaee2674a60fd134.png",
     "index.html": "/noahs-universe/index.html",
     "main.47daf086.css.map": "/noahs-universe/static/css/main.47daf086.css.map",
-    "main.17908abe.js.map": "/noahs-universe/static/js/main.17908abe.js.map",
+    "main.f022faae.js.map": "/noahs-universe/static/js/main.f022faae.js.map",
     "787.3ba5e41c.chunk.js.map": "/noahs-universe/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47daf086.css",
-    "static/js/main.17908abe.js"
+    "static/js/main.f022faae.js"
   ]
 }
