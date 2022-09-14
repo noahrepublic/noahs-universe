@@ -4,6 +4,9 @@
   padding: 0;
   }
 
+ul {
+  list-style: none;
+}
 
 body {
   background-color: #1B263B; /* #0D1B2A */
@@ -18,7 +21,6 @@ body {
 }
 
 #navbar ul {
-  list-style-type: none;
   position: relative;
   bottom: -15px;
 }
@@ -91,4 +93,49 @@ body {
 }
 #title:hover {
   background-size: 0 3px, 100% 3px;
+}
+
+/* About me */
+
+.about {
+  text-align: center;
+  color: #E0E1DD;
+  font-family: 'Arial', sans-serif;
+  font-size: 100%;
+
+  line-height: 25px;
+}
+
+.about #txt {
+  padding-top: 20px;
+  word-wrap: break-word;
+  width: 50%;
+  text-indent: auto;
+  margin: auto;
+}
+
+.about #avatar {
+  border-radius: 50%;
+  width: 10%;
+  margin-top: 100px;
+  transition: width 0.25s ease-in-out;
+}
+.about #avatar:hover {
+  width: 11%;
+}
+
+.about_foot{
+  text-align: center;
+  color: #E0E1DD;
+  font-family: 'Arial', sans-serif;
+  font-size: 50%;
+  line-height: 25px;
+  padding-top: 50px;
+}
+
+.about_foot #social {
+  border-radius: 25%;
+  width: 3%;
+  margin-top: 100px;
+
 }
